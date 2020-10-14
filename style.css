@@ -1,9 +1,22 @@
+.cover {
+	text-align:center;
+	max-height:400px;
+	overflow:hidden;
+}
+.thumb {
+	float:left;
+	margin-right:10px;
+	margin-bottom:10px;
+}
+.cover img {
+	width:100%;
+}
 h1 {
 	color:orange;
 }
+ul {
+	clear:both;
+}
 .chapo {
   font-weight:bold;
-}
-#part-2 {
-  display:none;
 }
